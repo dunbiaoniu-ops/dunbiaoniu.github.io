@@ -1,4 +1,3 @@
-
 ---
 title: "An Efficient Algorithm for a Class of Large-scale Support Vector Machines Exploiting Hidden Sparsity"
 collection: publications
