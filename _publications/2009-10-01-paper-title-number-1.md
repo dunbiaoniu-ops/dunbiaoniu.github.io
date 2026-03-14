@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "A Dual Inexact Nonsmooth Newton Method for Distributed Optimization"          # 论文标题
+collection: publications               # 固定不变
+type: journal                          # 新增：'journal' 或 'conference'
+authors: "D. Niu, Y. Hong and E. Song"   # 新增：作者列表，可以包含 HTML 如 <b>Your Name</b>
+venue: "IEEE Transactions on Signal Processing"                      # 期刊/会议名称
+date: 2024-11                        # 日期
+note: "(JCR-Q1)"                        # 可选：备注信息，如 Q1、Accepted 等
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
