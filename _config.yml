@@ -23,7 +23,7 @@ repository               : "dunbiaoniu-ops/dunbiaoniu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./dunbiaoniu.png"
+  avatar           : "dunbiaoniu.png"
   name             : "Dunbiao Niu"
   pronouns         : # example: "she/her"  
   bio              : "Doctor of Natural Science, PostDoc at Tongji University"
