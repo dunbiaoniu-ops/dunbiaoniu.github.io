@@ -8,6 +8,5 @@ date: 2025-06-01         # 必须为 YYYY-MM-DD 格式
 volume: "70"                 # 卷号
 number:                   # 期号
 pages: "188-203"             # 页码
-artnum:                      # 页码2
 note: "(JCR-Q1, IF 5.8)"         # 可选的备注信息
 ---
