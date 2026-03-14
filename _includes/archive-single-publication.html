@@ -14,7 +14,7 @@
       <i>{{ post.venue }}</i>{% if post.volume or post.number or post.pages or post.artnum %},{% endif %}
       {% if post.volume %}vol. {{ post.volume }}{% endif %}
       {% if post.number %}, no. {{ post.number }}{% endif %}
-      {% if post.artnum %}, Art. no. {{ post.artnum }}{% endif %},
+      {% if post.artnum %}, Art. no. {{ post.artnum }}{% endif %}
       {% if post.pages %}, pp. {{ post.pages }}{% endif %},
       {{ post.date | date: "%Y" }}.
       {% if post.note %}
