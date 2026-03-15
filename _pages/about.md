@@ -9,7 +9,7 @@ redirect_from:
 
 Dunbiao Niu received the B.S. degree in statistics from Southwest Jiaotong University, Chengdu, China, in 2016, and the M.S. degree in probability theory and mathematical statistics and the Ph.D. degree in statistics from Sichuan University, Chengdu, in 2019 and 2023, respectively. He is currently a postdoctoral researcher at the College of Electronic and Information Engineering, Tongji University, Shanghai, China. His current research interests mainly include statistics and optimization methods (both algorithmic design and theory) with applications in signal processing, multisensor systems, and distributed optimization.
 
-Education and Experience
+Education
 ======
 2020.09-2023.06 | Sichuan University, China                                                             
 College of Mathematics Ph.D. Candidate in Applied Statistics  
@@ -35,7 +35,7 @@ School of Mathematics B.S. in Statistics
 Professor Chengjing Wang)  
 • Awarded several scholarships for outstanding academic performance.
 
-Employment Experience
+Employment
 ======
 2023.08-Present | Tongji University, China  
 College of Electronic and Information Engineering | Postdoctoral Fellow  
